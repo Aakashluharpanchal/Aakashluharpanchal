@@ -42,9 +42,9 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 
 ## Current Focus & Interests
 
-🔭 Developing an autonomous UGV system for real-time warehouse navigation using ROS2 and multi-sensor fusion.
-🌱 Exploring SLAM, 3D point cloud processing, and localization in dynamic indoor environments.
-💬 Open to collaborations on robotic simulations, ROS-based systems, and machine learning projects.
+* 🔭 Developing an autonomous UGV system for real-time warehouse navigation using ROS2 and multi-sensor fusion.
+* 🌱 Exploring SLAM, 3D point cloud processing, and localization in dynamic indoor environments.
+* 💬 Open to collaborations on robotic simulations, ROS-based systems, and machine learning projects.
 
 ## Connect with Me
 📫 Feel free to reach out to me at: panchal.aakash@hotmail.com
