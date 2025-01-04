@@ -12,11 +12,16 @@ I am enthusiastic about sensor fusion and SLAM using IMU, LiDAR, and computer vi
 ## Key Engineering Focus Areas
 
 Navigation: SLAM, VIO (Visual-Inertial Odometry), Path Planning, Autonomous Navigation
+
 Control Systems: PID, Adaptive Control, Kinematics, and System Calibration
+
 Optimization: EKF (Extended Kalman Filters), Heuristic Algorithms (GA, PSO, etc.)
+
 Computer Vision: Object Detection, OpenCV, 3D Scene Reconstruction
+
 Machine Learning: Classical (KNN, SVM), Deep Learning (CNN, RNN)
-Programming & Software Skills
+
+## Programming & Software Skills
 C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion 360 | Git
 
 ## Current Focus & Interests
