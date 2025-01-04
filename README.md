@@ -31,7 +31,7 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="RPi" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/androidstudio.svg" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Git" width="40" height="40"/>
 </div>
 
 ## Current Focus & Interests
