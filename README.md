@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I hold an M.Sc. in Robotics with extensive experie
 During my time at Cranfield University, I led and contributed to complex projects such as:
 
 Multi-Arm Robotic Systems for In-Orbit Assembly: Developed and simulated robotic systems using ROS and Gazebo in collaboration with aerospace partners.
+
 Human-Robot Interaction Study: Leveraged wearable technology to capture physiological data and analyze human stress and comfort in robotic collaboration environments.
+
 Currently, I am developing an Unmanned Ground Vehicle (UGV) for autonomous warehouse pallet handling, featuring:
 
 ROS2-based control architecture
