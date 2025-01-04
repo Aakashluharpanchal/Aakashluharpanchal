@@ -25,13 +25,13 @@ Machine Learning: Classical (KNN, SVM), Deep Learning (CNN, RNN)
 C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion 360 | Git
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ros" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="RPi" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TF" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/androidstudio.svg" alt="Git" width="40" height="40"/>
 </div>
 
 ## Current Focus & Interests
