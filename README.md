@@ -1,8 +1,10 @@
 ![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
+ 
  # Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
+
 Welcome to my GitHub! I am a passionate engineer with an M.Sc. in Robotics and a keen interest in Localization, Mapping, and Autonomous Systems. Over the years, I have contributed to projects spanning ROS-based control systems, sensor fusion, and UGV development. I love applying mathematical models and algorithms to solve real-world challenges in autonomous navigation.
 
-About Me
+ # About Me
 During my time at Cranfield University, I led projects involving multi-arm robotic systems for in-orbit assembly and human-robot interaction, where I utilized smart wearables to capture physiological data and assess stress and comfort dynamics. I have also developed UGVs for autonomous warehouse pallet handling featuring ROS2-based control, IMU calibration, and radar integration for enhanced localization and obstacle avoidance.
 
 I am enthusiastic about sensor fusion and SLAM using IMU, LiDAR, and computer vision. I thrive in projects that require designing robust control systems and achieving high-performance robotic autonomy through ROS2, Gazebo, C++, and Linux.
