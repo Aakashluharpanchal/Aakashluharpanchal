@@ -1,5 +1,5 @@
 ![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
-Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
+# Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
 Welcome to my GitHub! I am a passionate engineer with an M.Sc. in Robotics and a keen interest in Localization, Mapping, and Autonomous Systems. Over the years, I have contributed to projects spanning ROS-based control systems, sensor fusion, and UGV development. I love applying mathematical models and algorithms to solve real-world challenges in autonomous navigation.
 
 About Me
