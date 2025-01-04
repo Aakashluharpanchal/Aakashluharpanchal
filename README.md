@@ -31,3 +31,4 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 # Fun fact 
 Robotics projects often feel like puzzles to me—each sensor, data stream, and algorithm is a piece that completes the bigger picture!
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aakashluharpanchal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luharpanchal/)  
