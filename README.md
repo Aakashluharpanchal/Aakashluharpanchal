@@ -5,26 +5,20 @@
 Welcome to my GitHub profile! I am a Mechanical Design and Robotics Engineer with an M.Sc. in Robotics and over 5 years of experience in product design, CAD modeling, and automation systems. I specialize in designing electro-mechanical products, optimizing manufacturing workflows, and developing autonomous robotic systems using ROS2, C++, and sensor fusion.
 
  ## About Me
-During my time at Cranfield University, I led and contributed to complex projects such as:
+I am passionate about developing cutting-edge solutions in mechanical design and autonomous robotics, with expertise in the full product development lifecycle—from concept generation to prototyping, testing, and final production. Some of my recent contributions include:
 
-* Multi-Arm Robotic Systems for In-Orbit Assembly: Developed and simulated robotic systems using ROS and Gazebo in collaboration with aerospace partners.
-* Human-Robot Interaction Study: Leveraged wearable technology to capture physiological data and analyze human stress and comfort in robotic collaboration environments.
-  
-Currently, I am developing an Unmanned Ground Vehicle (UGV) for autonomous warehouse pallet handling, featuring:
-
-ROS2-based control architecture
-IMU calibration and radar integration for enhanced localization and obstacle avoidance.
-With 5+ years of CAD design experience, I have a proven track record of creating robust and innovative mechanical systems using tools like Fusion 360 and SolidWorks.
-
-My core expertise lies in sensor fusion, SLAM (Simultaneous Localization and Mapping), and designing control systems for high-performance robotic autonomy.
+* Unmanned Ground Vehicle (UGV) development for autonomous pallet handling in warehouses using ROS2-based control and multi-sensor fusion (radar, ultrasonic, IMU).
+* Leading the design and simulation of a multi-arm robotic assembly system in Gazebo and RViz, optimizing kinematics and control for precise operations.
+* Designing electro-mechanical systems such as relay-operated switches and proximity-sensor-based automation components that improved production efficiency by up to 41%.
+With 5+ years of experience in CAD modeling (Fusion 360, SolidWorks, AutoCAD), I have developed robust metal and plastic components and implemented lean manufacturing processes to reduce assembly complexity.
 
 ## Key Engineering Focus Areas
 
-* Navigation: SLAM, VIO (Visual-Inertial Odometry), Path Planning, Autonomous Navigation
-* Control Systems: PID, Adaptive Control, Kinematics, and System Calibration
-* Optimization: EKF (Extended Kalman Filters), Heuristic Algorithms (GA, PSO, etc.)
-* Computer Vision: Object Detection, OpenCV, 3D Scene Reconstruction
-* Machine Learning: Classical (KNN, SVM), Deep Learning (CNN, RNN)
+* Mechanical Design & CAD: Proficient in Fusion 360, SolidWorks, AutoCAD, and Inventor for 3D modeling, assemblies, and technical drawings.
+* Electro-Mechanical Product Design: Experience in designing metal housings, sensor mounts, sheet metal parts, and automated systems.
+* Robotics and Sensor Fusion: Skilled in SLAM, state estimation, path planning, and multi-sensor data integration using C++, ROS/ROS2, and Gazebo.
+* Control Systems: Knowledge of PID control, adaptive control, and kinematics for robotics and automation.
+* Manufacturing: Experience with metal fabrication, casting, and lean production workflows.
   
 ## Programming & Software Skills
 C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion 360 | Git
@@ -51,6 +45,6 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 👔 Let’s connect on LinkedIn | GitHub
 
 ## Fun fact 
-To me, robotics is like solving a puzzle—each sensor, data stream, and algorithm is a piece that fits together to form the bigger picture of intelligent automation.
+I view design challenges as intricate puzzles—assembling the right combination of components, algorithms, and processes to create innovative solutions.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aakashluharpanchal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luharpanchal/)  
