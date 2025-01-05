@@ -41,9 +41,8 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 * 💬 Open to collaborations on robotic simulations, ROS-based systems, and machine learning projects.
 
 ## Connect with Me
-📫 Feel free to reach out to me at: panchal.aakash@hotmail.com
-
-👔 Let’s connect on LinkedIn | GitHub
+* 📫 Feel free to reach out to me at: panchal.aakash@hotmail.com
+* 👔 Let’s connect on LinkedIn | GitHub
 
 ## Fun fact 
 I view design challenges as intricate puzzles—assembling the right combination of components, algorithms, and processes to create innovative solutions.
