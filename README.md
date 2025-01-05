@@ -1,4 +1,4 @@
-![LinkedIn_Banner]Aakash Luharpanchal.png
+![LinkedIn_Banner]https://github.com/Aakashluharpanchal/Aakashluharpanchal/blob/648e1b268facbda20603ac109b8f4413ebdef213/Aakash%20Luharpanchal.png
  
  # Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
 
