@@ -42,6 +42,7 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 
 ## Connect with Me
 📫 Feel free to reach out to me at: panchal.aakash@hotmail.com
+
 👔 Let’s connect on LinkedIn | GitHub
 
 ## Fun fact 
