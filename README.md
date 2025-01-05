@@ -2,7 +2,7 @@
  
  # Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
 
-Welcome to my GitHub profile! I hold an M.Sc. in Robotics with extensive experience in localization, mapping, and robotic systems development. Over the years, I have contributed to diverse projects in ROS-based control systems, multi-sensor fusion, UGV development, and CAD design. My work is driven by a passion for applying mathematical models and algorithms to solve real-world challenges in autonomous navigation and system optimization.
+Welcome to my GitHub profile! I am a Mechanical Design and Robotics Engineer with an M.Sc. in Robotics and over 5 years of experience in product design, CAD modeling, and automation systems. I specialize in designing electro-mechanical products, optimizing manufacturing workflows, and developing autonomous robotic systems using ROS2, C++, and sensor fusion.
 
  ## About Me
 During my time at Cranfield University, I led and contributed to complex projects such as:
