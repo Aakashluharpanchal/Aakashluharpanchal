@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a Mechanical Design and Robotics Engineer with an M.Sc. in Robotics and over 5 years of experience in product design, CAD modeling, and automation systems. I specialize in designing electro-mechanical products, optimizing manufacturing workflows, and developing autonomous robotic systems using ROS2, C++, and sensor fusion.
 
- ## About Me
+ ## **About Me**
 I am passionate about developing cutting-edge solutions in mechanical design and autonomous robotics, with expertise in the full product development lifecycle—from concept generation to prototyping, testing, and final production. Some of my recent contributions include:
 
 * Unmanned Ground Vehicle (UGV) development for autonomous pallet handling in warehouses using ROS2-based control and multi-sensor fusion (radar, ultrasonic, IMU).
