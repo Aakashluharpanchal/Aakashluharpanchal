@@ -40,9 +40,10 @@ C++ | Python | ROS / ROS2 | Linux | Gazebo | OpenCV | MATLAB / Simulink | Fusion
 * 🌱 Exploring SLAM, 3D point cloud processing, and localization in dynamic indoor environments.
 * 💬 Open to collaborations on robotic simulations, ROS-based systems, and machine learning projects.
 
-## Connect with Me
-* 📫 Feel free to reach out to me at: panchal.aakash@hotmail.com
-* 👔 Let’s connect on LinkedIn | GitHub
+### **Connect with Me** 🌐  
+- 📫 **Email:** [**panchal.aakash@hotmail.com**](mailto:panchal.aakash@hotmail.com)  
+- 👔 **LinkedIn:** [**linkedin.com/in/luharpanchal**](https://www.linkedin.com/in/luharpanchal/)  
+- 💻 **GitHub:** [**github.com/AakashLuharpanchal**](https://github.com/AakashLuharpanchal)  
 
 ## Fun fact 
 I view design challenges as intricate puzzles—assembling the right combination of components, algorithms, and processes to create innovative solutions.
