@@ -1,6 +1,6 @@
 ![LinkedIn_Banner](https://github.com/Aakashluharpanchal/Aakashluharpanchal/blob/a5cbb2fe756a4a4b596f0a8eb04144fd4b0b925e/Aakash%20Luharpanchal.png)
  
-# ** Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)
+## **Aakash Luharpanchal (Robotics & Multi-Sensor Fusion Engineer)**
 
 Welcome to my GitHub profile! I am a Mechanical Design and Robotics Engineer with an M.Sc. in Robotics and over 5 years of experience in product design, CAD modeling, and automation systems. I specialize in designing electro-mechanical products, optimizing manufacturing workflows, and developing autonomous robotic systems using ROS2, C++, and sensor fusion.
 
