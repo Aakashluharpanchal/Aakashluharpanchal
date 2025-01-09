@@ -50,3 +50,5 @@ I view design challenges as intricate puzzles—assembling the right combination
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aakashluharpanchal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luharpanchal/)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashLuharpanchal&show_icons=true&theme=radical)
+## **🔥 GitHub Activity**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashLuharpanchal&theme=radical)  
