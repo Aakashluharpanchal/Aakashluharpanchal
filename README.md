@@ -52,6 +52,6 @@ I view design challenges as intricate puzzles—assembling the right combination
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashLuharpanchal&show_icons=true&theme=radical)
 ## **🔥 GitHub Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashLuharpanchal&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashLuharpanchal&theme=radical)
+
 
  
