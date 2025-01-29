@@ -57,4 +57,3 @@ You can find a detailed showcase of my work in the *Design-Profile* Directory. T
 ## **🔥 GitHub Activity**  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashLuharpanchal&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashLuharpanchal&theme=radical)
